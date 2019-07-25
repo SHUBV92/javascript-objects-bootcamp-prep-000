@@ -1,10 +1,10 @@
-var playlist = new Object({50 Cent: "Candy Shop"});
+let playlist = new Object({50 Cent: "Candy Shop"});
  
 
 function  updatePlayList (playlist, "50 Cent","Tutak Tutiyan")
 
 
-function removeFromPlaylist (playlist "Malkit Singh")
+removeFromPlaylist.playlist =  (playlist "Malkit Singh")
 
 return 
 
