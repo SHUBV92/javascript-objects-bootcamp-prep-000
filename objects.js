@@ -3,7 +3,7 @@ let playlist = {
   song title: "Candy Shop"
   
   updatePlayList: function () {
-  return 
+  return playlist.artist
   
   }
 }
