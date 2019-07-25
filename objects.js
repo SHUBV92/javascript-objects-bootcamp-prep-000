@@ -1,6 +1,7 @@
 let playlist = {
   artist: "50 Cent"
   song title: "Candy Shop"
+  playlist.
   
   updatePlayList: function () {
   return playlist.artist
